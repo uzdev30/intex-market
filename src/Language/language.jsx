@@ -69,6 +69,7 @@ const Localization = {
       width22: "200 см",
       title8: "Нет в наличии",
       add2: "+ Лестница + фильтр",
+      title11: "asdfasdfasdf",
     },
   },
 };
