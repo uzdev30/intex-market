@@ -51,7 +51,10 @@ function Footer({ lang }) {
             </div>
           </li>
           <li className="max-[376px]:ml-">
-            <a className="text-[21px] max-[376px]:text-[15px]" href="">
+            <a
+              className="text-[21px] max-[376px]:text-[15px]"
+              href="https://intex-store.uz/"
+            >
               Intex-market.uz
             </a>
             <p className="max-[376px]:text-[13px]">+998(99)911-02-04</p>
