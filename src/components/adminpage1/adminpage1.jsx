@@ -10,9 +10,9 @@ import TwoData from "./TwoData";
 
 // Images
 
-import Logo from "../../Assets/Images/Logo.svg";
-import SmallPerson from "../../Assets/Images/SmallPerson.png";
-import Search from "../../Assets/Images/Search.png";
+import Logo from "../../assets/images/Logo.svg";
+import SmallPerson from "../../assets/images/SmallPerson.png";
+import Search from "../../assets/images/Search.png";
 
 // Code
 
