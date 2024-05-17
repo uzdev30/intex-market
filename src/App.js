@@ -1,5 +1,5 @@
 import "./App.css";
-// import Adminpage1 from "./components/adminpage1/adminpage1";
+import Adminpage1 from "./components/adminpage1/adminpage1";
 import Home from "./components/home/home";
 
 function App() {
