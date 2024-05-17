@@ -26,6 +26,18 @@ const Localization = {
       title1: "",
       title2: "s",
     },
+
+    footer: {
+      title1: "Bepul konsultatsiya yordami uchun",
+      title2: "Ismingiz",
+      title3: "Telefon raqamingiz",
+
+      title4: "Konsultatsiya olish",
+      title5: " Ish vaqti",
+      title6: " Ish kunlari",
+      title7: " Dam olish kunlarisiz",
+      title8: " Pahlavon Mahmud ko’chasi, Yashnobod tumani, Toshkent.",
+    },
   },
   ru: {
     header: {
@@ -70,6 +82,16 @@ const Localization = {
       title8: "Нет в наличии",
       add2: "+ Лестница + фильтр",
       title11: "asdfasdfasdf",
+    },
+    footer: {
+      title1: "Для бесплатной консультации помогите ",
+      title2: " Ваше имя",
+      title3: "Ваш номер телефона  ",
+      title4: " Получить консультацию",
+      title5: " Рабочее время",
+      title6: " Рабочие дни",
+      title7: "Без выходных ",
+      title8: "Улица Пахлавона Махмуда, Яшнабадский район, Ташкент.",
     },
   },
 };
