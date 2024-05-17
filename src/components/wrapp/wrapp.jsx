@@ -20,7 +20,7 @@ function Wrapp({ lang }) {
           />
 
           <div className=" max-[376px]:ml-5">
-            <h4 className="text-[40px] max-[376px]:text-[20px] font-bold">
+            <h4 className="text-[30px] max-[376px]:text-[20px] font-bold">
               {Localization[lang].wrapp.title2}
             </h4>
             <p className="w-[150px]  max-[376px]:w-[280px]  max-[376px]:text-[14px]">
@@ -34,8 +34,8 @@ function Wrapp({ lang }) {
             src={car}
             alt="img"
           />
-          <div className=" max-[376px]:ml-5">
-            <h4 className="text-[40px] max-[376px]:text-[20px] font-bold">
+          <div className=" max-[376px]:ml-5 mt-2">
+            <h4 className="text-[27px] max-[376px]:text-[20px] font-bold">
               {Localization[lang].wrapp.title4}
             </h4>
             <p className="w-[150px]  max-[376px]:w-[280px]  max-[376px]:text-[14px]">
@@ -50,7 +50,7 @@ function Wrapp({ lang }) {
             alt="img"
           />
           <div className=" max-[376px]:ml-5">
-            <h4 className="text-[40px] max-[376px]:text-[20px] font-bold">
+            <h4 className="text-[30px] max-[376px]:text-[20px] font-bold">
               {Localization[lang].wrapp.title6}
             </h4>
             <p className="w-[180px]  max-[376px]:w-[280px]  max-[376px]:text-[14px]">
