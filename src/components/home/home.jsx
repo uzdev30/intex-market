@@ -1,12 +1,14 @@
 import React from "react";
+import { useState } from "react";
+
 import Header from "../header/header";
 import Footer from "../footer/footer";
 import Hero from "../hero/hero";
-import { useState } from "react";
 import Content from "../content/content";
 import Sidebar from "../sidebar/sidebar";
 import Wrapp from "../wrapp/wrapp";
 import Wrapper from "../wrapper/wrapper";
+
 function Home() {
   const [lang, setLang] = useState("ru");
   const [open, setOpen] = useState(false);

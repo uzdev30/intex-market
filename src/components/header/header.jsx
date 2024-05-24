@@ -37,9 +37,7 @@ function Header({ lang, setLang, open, setOpen }) {
             onChange={(e) => setLang(e.target.value)}
           >
             <option value={"uz"}>uz</option>
-            <option selected value={"ru"}>
-              ru
-            </option>
+            <option value={"ru"}>ru</option>
           </select>
         </li>
         <li className="hidden max-[376px]:block">
