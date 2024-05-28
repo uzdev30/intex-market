@@ -1,5 +1,5 @@
 import React from "react";
-import { useEffect, useState } from "react";
+
 import Localization from "../../Language/language";
 //importing imagesss
 
@@ -7,27 +7,8 @@ import master from "../../assets/images/master.png";
 import car from "../../assets/images/car.png";
 import emoji from "../../assets/images/emoji.png";
 function Wrapp({ lang }) {
-  const [state, setstate] = useState([
-    { id: 1, name: "ism" },
-    { id: 2, name: "ikkinchi ism" },
-  ]);
-  useEffect(() => {
-    fetch("http://localhost:3000/datas")
-      .then((response) => response.json())
-      .then((datas) => setstate(datas));
-  }, []);
-  console.log(state);
   return (
     <div>
-      {state.map((item) => {
-        return (
-          <li className=" list-none" key={item.id}>
-            <p>{item.title}</p>
-            {/* <p>{item.img}</p> */}
-            <img src={item.img} alt="img" />
-          </li>
-        );
-      })}
       <div className="bg-grayBg text-[50px] max-[376px]:w-[376px] max-[376px]:text-[20px] max-[376px]:py-1   max-[376px]:h-[46px]  font-[600] text-center text-darkColor">
         {Localization[lang].wrapp.title1}
       </div>
