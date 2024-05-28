@@ -8,6 +8,7 @@ import instagram from "../../assets/images/instagram.svg";
 
 function Header({ lang, setLang, open, setOpen }) {
   return (
+<<<<<<< HEAD
     <div className="fixed max-[376px]:fixed">
       <div className="bg-darkBg text-mainColor w-[1540px] max-[376px]:w-[376px]      py-4 px-[70px] max-[376px]:px-[20px] max-[376px]:py-[20px]   h-[74px]">
         <ul className="flex text-[22px]   justify-between">
@@ -20,6 +21,55 @@ function Header({ lang, setLang, open, setOpen }) {
           </li>
           <li className="flex justify-between max-[376px]:hidden w-[500px]">
             <a className="hover:text-gray-300" href="#">
+=======
+    <div className="bg-darkBg text-mainColor py-4 px-[70px] max-[376px]:px-[20px] max-[376px]:py-[20px]   h-[74px]">
+      <ul className="flex text-[22px] justify-between">
+        <li>
+          <img
+            className="max-[376px]:w-[192px] max-[376px]:mt-[3px]  "
+            src={logo}
+            alt=""
+          />
+        </li>
+        <li className="flex justify-between max-[376px]:hidden w-[500px]">
+          <a className="hover:text-gray-300" href="#">
+            {Localization[lang].header.title1}
+          </a>
+          <a className="hover:text-gray-300" href="#">
+            {Localization[lang].header.title2}
+          </a>
+        </li>
+        <li className="flex   ">
+          <a className="max-[376px]:hidden" href="#">
+            (99) 911 02 04
+          </a>
+          <img className="max-[376px]:w-[35px]" src={telegram} alt="log" />
+          <img className="max-[376px]:w-[35px]" src={instagram} alt="logo" />
+          <select
+            className=" text-darkColor max-[376px]:w-[35px]  max-[376px]:h-[20px]  max-[376px]:mb-[12px]  max-[376px]:text-[15px] h-[26px] w-[46px] outline-none rounded  mt-[7px]"
+            onChange={(e) => setLang(e.target.value)}
+          >
+            <option value={"uz"}>uz</option>
+            <option value={"ru"}>ru</option>
+          </select>
+        </li>
+        <li className="hidden max-[376px]:block">
+          <i
+            onClick={() => setOpen(true)}
+            className={`${open && "hidden"} fas fa-bars`}
+          ></i>
+
+          <dialog
+            open={open}
+            className={`w-[284px] order text-mainColor  ml-[92px] p-2 px-5  shadow-shadow mt-[-20px]  bg-darkBg`}
+          >
+            <i
+              onClick={() => setOpen(false)}
+              className="fas fa-x ml-[240px]"
+            ></i>
+            <img className="mx-auto" src={logo} alt="img" />
+            <button className="w-[240px] h-[56px] mx-auto mt-10 text-[17px]  text-darkColor  bg-white rounded-xl">
+>>>>>>> 6cf87fb9d5250291838e0a5dca45cd7311f28af7
               {Localization[lang].header.title1}
             </a>
             <a className="hover:text-gray-300" href="#">

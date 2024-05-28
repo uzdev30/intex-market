@@ -30,7 +30,7 @@ export default function Adminpage1() {
 
   return (
     <section className="section1 border-[1px]">
-      <div className="container max-w-[1480px] flex">
+      <div className="container max-w-[1480px] m-auto flex">
         <li className=" list-none w-[262px] bg-[#ffff]">
           <img
             className="w-[196px] h-[28px] mt-[34px] mb-[34px]"

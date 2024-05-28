@@ -229,6 +229,7 @@ function App() {
       .then((datas) => setDatas(datas));
   }, []);
   return (
+<<<<<<< HEAD
     <Routes>
       <Route
         path="/"
@@ -240,6 +241,12 @@ function App() {
       {/* <Adminpage /> */}
       {/* <Adminpage lang={lang} /> */}
     </Routes>
+=======
+    <>
+      <Home />
+      {/* <Adminpage1 /> */}
+    </>
+>>>>>>> 6cf87fb9d5250291838e0a5dca45cd7311f28af7
   );
 }
 
