@@ -73,7 +73,7 @@ const handleSubmit = (e) => {
         setValueValidat6(true)
     }else {
         onClose()
-        axios.post('http://localhost:3000/data',{
+        axios.post('http://localhost:3000/data2',{
             "Изображение":value.Изображение,
             "Цена":value.Цена,
             "Рамка":value.Рамка,
@@ -82,7 +82,7 @@ const handleSubmit = (e) => {
             "Глубина":value.Глубина
         }).then((res) => {
             setValue({Изображение: '' ,Цена: '' , Рамка:'' , Размер:'',Количество:'', Глубина:''})
-            axios.get('http://localhost:3000/data')
+            axios.get('http://localhost:3000/data2')
             .then(res => {
                 setData(res.data)
             })

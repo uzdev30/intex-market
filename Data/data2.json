@@ -1,85 +1,76 @@
 {
-    "data2": [
-        {
-            "id": "8",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/4a91/881c/1305de920b6908bd26885f898c47f560?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ahpGqTxdWSlecCF-C4PM2K3byc7dQcKXwsf-1kMPKutrkDMhOijTQhPo~VJzYlAl1RU5iqEP62Kra64zahw1V2cq~S6f8WDztJbzHCg-N8wEX2xd50aPC~BETQfsVOO3OsJlrjpkn3RdHULC~2z1NiNr107dt2yQIHjGybsYmHskvTqGSbme-hcKtaUT~ZnjnT1XV0AZdJnBEwTRkr7rjMmg0E74pqUI1b3KT22TLw-7GLG-Rbb9TJO5mweCXB43brX9vpRS63b4DsyzD~vZyl2aRQUqCcLKYGOktGP3G8urmELw2JP-oPLGgu4bT9Krmmf30aMNz8SGYbR62akeKg__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Рамка призмы",
-            "Размер": "3.05",
-            "Глубина": "76"
-          },
-          {
-            "id": "9",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "10",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "11",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "12",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "13",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "14",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "15",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          },
-          {
-            "id": "16",
-            "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
-            "Цена": "1.520.000 сум",
-            "Количество": "10",
-            "Рамка": "Металлический",
-            "Размер": "3,66",
-            "Глубина": "76"
-          }  
-    ]
+  "data2": [
+    {
+      "id": "1",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "2",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "3",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "4",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "5",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "6",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "7",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    },
+    {
+      "id": "8",
+      "Изображение": "https://s3-alpha-sig.figma.com/img/347a/8d39/4be5c4f6d6ad510c49ff428b930128cb?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=coCRGqUPe3vpyjrTQspNFulIx5qbuBI2fgOMghJRkH~6sUCG2rq1HdD4fPUnGSZXnTItRvKm2pwyrAJMEobglf2r5j5z5RTray94kN0XilqMA490A5-N7Lu75kcuKbnYADHMcImOu8xQ0K5~dF0KiN~YW3mivqEJhu46Sw1O017qMOknWzKD1-wEj3gwG7sTi1JwudAr6vyRJ9U0G5y2tA75y~AQnbi7MYaK46RZ1O~6RMDTsdThNeTdfGwlfJqJ9Tbnpg~60eXgu8KHKJwP6RPPl-WaRQDphKpyyAZZEtGUxAR3OcO4R8cQ6JHy3ejaEp8i~mdLeGifBmbmt1vG2A__",
+      "Цена": "1.520.000 сум",
+      "Количество": "10",
+      "Рамка": "Металлический",
+      "Размер": "3,66",
+      "Глубина": "76"
+    }
+  ]
 }

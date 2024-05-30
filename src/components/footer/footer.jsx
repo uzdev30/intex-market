@@ -11,13 +11,13 @@ function Footer({ lang }) {
             {Localization[lang].footer.title1}
           </p>
           <input
-            className="w-[311px]  max-[376px]:w-[272px] max-[376px]:h-[37px] rounded-xl mt-3 h-[45px] outline-none"
+            className="w-[311px] text-[#000]  max-[376px]:w-[272px] max-[376px]:h-[37px] rounded-xl mt-3 h-[45px] outline-none pl-[10px]"
             type="text"
             placeholder={Localization[lang].footer.title2}
           />
           <input
-            className="w-[311px]  max-[376px]:w-[272px] max-[376px]:h-[37px] rounded-xl my-5 h-[45px] outline-none"
-            type="tell"
+            className="w-[311px]  max-[376px]:w-[272px] max-[376px]:h-[37px] rounded-xl my-5 h-[45px] outline-none text-[#000] pl-[10px]"
+            type="tell "
             placeholder={Localization[lang].footer.title3}
           />
           <button className="w-[239px] h-[37px] text-black font-[500] rounded-md bg-yellowBg">

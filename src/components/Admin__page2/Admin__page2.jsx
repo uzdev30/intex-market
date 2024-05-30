@@ -12,7 +12,7 @@ import Updata from '../Modal/Updata';
 
 
 
-const Admin__page = () => {
+const Admin__page2 = () => {
 
     const [data,setData] = useState([])
     
@@ -23,16 +23,16 @@ const Admin__page = () => {
 
 
     useEffect(() => {
-        axios.get('http://localhost:3000/data')
+        axios.get('http://localhost:3000/data2')
         .then(res => {
             setData(res.data)
         })
     },[])
 
     const heandleDalete = (id) => {
-        axios.delete('http://localhost:3000/data/' + id)
+        axios.delete('http://localhost:3000/data2/' + id)
         .then(res => {
-            axios.get('http://localhost:3000/data')
+            axios.get('http://localhost:3000/data2')
             .then(res => {
                 setData(res.data)
             })
@@ -40,9 +40,9 @@ const Admin__page = () => {
     }
 
     const heandleUpdate = (id) => {
-        axios.get('http://localhost:3000/data/' + id)
+        axios.get('http://localhost:3000/data2/' + id)
         .then(res => {
-            axios.get('http://localhost:3000/data')
+            axios.get('http://localhost:3000/data2')
             .then(res => {
                 setData(res.data)
                 setShowModalUpdata(true)
@@ -134,4 +134,4 @@ const Admin__page = () => {
 )
 }
 
-export default Admin__page
+export default Admin__page2
