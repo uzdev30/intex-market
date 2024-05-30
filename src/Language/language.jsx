@@ -23,8 +23,33 @@ const Localization = {
     },
 
     content: {
-      title1: "",
-      title2: "s",
+      title1: " Ramkali basseynlar",
+      title2: "Tavsiya qilamiz",
+      title3: "Metall ramka ",
+      title4: "Buyurtma qilish",
+      costm1: "1.400.000 so'm",
+      cost1: "1.090.000 so'm",
+      order: "Buyurtma qilish",
+      title5: "Chegirma",
+      title6: "Prizmali ramka ",
+      width1: "305 sm",
+      height1: "76 sm",
+      costm2: "1.800.000 so'm",
+      cost2: "1.520.000 so'm",
+      title7: " To’rtburchak ramka",
+      width2: "305 sm",
+      height2: "84 sm",
+      width21: "220 sm",
+      add: "+ zinapoya + tent + Choyshab + filtr",
+      width3: "400 sm",
+      height3: "100 sm",
+      width22: "200 sm",
+      title8: "  Sotuvda yo’q",
+      add2: "+ zinapoya + filtr ",
+      title11: "Oson sozlash",
+    },
+    list: {
+      title1: "Puflanadigan basseynlar",
     },
     wrapper: {
       title1: "Tekin yetkazib berish",
@@ -65,6 +90,28 @@ const Localization = {
       title6: " Ish kunlari",
       title7: " Dam olish kunlarisiz",
       title8: " Pahlavon Mahmud ko’chasi, Yashnobod tumani, Toshkent.",
+    },
+    modal: {
+      title1: "Ismingiz",
+      title2: "Raqamingiz  ",
+      title3: "Manzilingiz ",
+      title4: " Raxmat!",
+      title5:
+        "Buyurtmangiz muvaffaqiyatli ro’yxatdan o’tdi. Yaqin vaqt oralig’ida siz bilan bog’lanamiz",
+    },
+    admin: {
+      title1: "Mahsulot",
+      title2: "Buyurtmalar",
+      title3: "Kategoriyalar",
+      title4: "Sayt",
+      title5: "Veb-saytni ko'rib chiqing",
+      title6: "qidiruv",
+      title: "Mahsulot   qo'shish",
+      titlemodal1:
+        "Tizimga kirish uchun foydalanuvchi ismini va parolini kiriting.",
+      titlemodal2: "Foydalanuvchi nomi",
+      titlemodal3: "Parol",
+      titlemodal4: "Kirish",
     },
   },
   ru: {
@@ -109,7 +156,10 @@ const Localization = {
       width22: "200 см",
       title8: "Нет в наличии",
       add2: "+ Лестница + фильтр",
-      title11: "asdfasdfasdf",
+      title11: "Легкий набор",
+    },
+    list: {
+      title1: "Надувные бассейны",
     },
     wrapper: {
       title1: "Бесплатная доставка",
@@ -148,6 +198,32 @@ const Localization = {
       title6: " Рабочие дни",
       title7: "Без выходных ",
       title8: "Улица Пахлавона Махмуда, Яшнабадский район, Ташкент.",
+    },
+
+    modal: {
+      title1: "Ваше имя",
+      title2: "Ваш номер ",
+      title3: "Ваш адрес",
+      title4: " Спасибо!",
+      title5:
+        "Ваш заказ успешно оформлен. Мь свяжемся с вами в ближайшее время. ",
+      title6: "Получить консультацию  ",
+    },
+
+    admin: {
+      title1: "Продукты",
+      title2: "Заказы",
+      title3: "Категории",
+      title4: "Сайт",
+      title5: "Просмотр веб-сайта  ",
+      title6: "Найти",
+      title7: "+ Добавить продукт",
+
+      titlemodal1:
+        "Введите имя пользователя и пароль, чтобы получить доступ к системе.",
+      titlemodal2: "Имя пользователя",
+      titlemodal3: "Пароль",
+      titlemodal4: "Войти",
     },
   },
 };

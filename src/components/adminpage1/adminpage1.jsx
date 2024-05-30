@@ -1,6 +1,10 @@
 // // HooKs
 
+<<<<<<< HEAD
 // import { useState } from "react";
+=======
+import { useState } from "react";
+>>>>>>> ffc74c41737c94e2c1fccab9c74c2b6552925d9d
 // import { NavLink } from "react-router-dom";
 
 // // Data
