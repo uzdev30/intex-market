@@ -223,13 +223,7 @@ function App() {
     },
   ];
 
-  useEffect(() => {
-    fetch("http://localhost:3000/datas")
-      .then((response) => response.json())
-      .then((datas) => setDatas(datas));
-  }, []);
   return (
-<<<<<<< HEAD
     <Routes>
       <Route
         path="/"
@@ -237,16 +231,7 @@ function App() {
       />
 
       <Route path="/admin" element={<Adminpage lang={lang} data={data} />} />
-      {/* <Home data={data} lang={lang} setLang={setLang} /> */}
-      {/* <Adminpage /> */}
-      {/* <Adminpage lang={lang} /> */}
     </Routes>
-=======
-    <>
-      <Home />
-      {/* <Adminpage1 /> */}
-    </>
->>>>>>> 6cf87fb9d5250291838e0a5dca45cd7311f28af7
   );
 }
 

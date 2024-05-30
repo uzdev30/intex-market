@@ -8,20 +8,6 @@ import instagram from "../../assets/images/instagram.svg";
 
 function Header({ lang, setLang, open, setOpen }) {
   return (
-<<<<<<< HEAD
-    <div className="fixed max-[376px]:fixed">
-      <div className="bg-darkBg text-mainColor w-[1540px] max-[376px]:w-[376px]      py-4 px-[70px] max-[376px]:px-[20px] max-[376px]:py-[20px]   h-[74px]">
-        <ul className="flex text-[22px]   justify-between">
-          <li>
-            <img
-              className="max-[376px]:w-[192px] max-[376px]:mt-[3px]  "
-              src={logo}
-              alt=""
-            />
-          </li>
-          <li className="flex justify-between max-[376px]:hidden w-[500px]">
-            <a className="hover:text-gray-300" href="#">
-=======
     <div className="bg-darkBg text-mainColor py-4 px-[70px] max-[376px]:px-[20px] max-[376px]:py-[20px]   h-[74px]">
       <ul className="flex text-[22px] justify-between">
         <li>
@@ -31,6 +17,7 @@ function Header({ lang, setLang, open, setOpen }) {
             alt=""
           />
         </li>
+
         <li className="flex justify-between max-[376px]:hidden w-[500px]">
           <a className="hover:text-gray-300" href="#">
             {Localization[lang].header.title1}
@@ -59,19 +46,20 @@ function Header({ lang, setLang, open, setOpen }) {
             className={`${open && "hidden"} fas fa-bars`}
           ></i>
 
-          <dialog
+          {/* <dialog
             open={open}
             className={`w-[284px] order text-mainColor  ml-[92px] p-2 px-5  shadow-shadow mt-[-20px]  bg-darkBg`}
-          >
+          > */}
+          <li className="flex justify-between max-[376px]:hidden w-[500px]">
+            <a className="hover:text-gray-300" href="#"></a>
             <i
               onClick={() => setOpen(false)}
               className="fas fa-x ml-[240px]"
             ></i>
             <img className="mx-auto" src={logo} alt="img" />
             <button className="w-[240px] h-[56px] mx-auto mt-10 text-[17px]  text-darkColor  bg-white rounded-xl">
->>>>>>> 6cf87fb9d5250291838e0a5dca45cd7311f28af7
               {Localization[lang].header.title1}
-            </a>
+            </button>
             <a className="hover:text-gray-300" href="#">
               {Localization[lang].header.title2}
             </a>
@@ -126,8 +114,8 @@ function Header({ lang, setLang, open, setOpen }) {
               </button>
             </dialog>
           </li>
-        </ul>
-      </div>
+        </li>
+      </ul>
     </div>
   );
 }
